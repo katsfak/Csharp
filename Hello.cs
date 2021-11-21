@@ -3,7 +3,7 @@ using System;
 namespace HelloWorld
 {
     class Hello {         
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Hello World!");
         }
